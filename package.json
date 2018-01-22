@@ -1,0 +1,11 @@
+
+{
+  "name": "brickblock-cypress-automation",
+  "version": "1.0.0",
+  "description": "Example tests for Brickblock newsletter input field",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  }
+}
